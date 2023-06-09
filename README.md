@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A computational chemist getting better everyday.</h3>
 
-- 🔭 I’m currently working to **finish my PhD**
+- 🔭 I’m currently working to **finish my Ph.D. in Biochemistry**
 
 - 🌱 I’m currently learning about **LLMs & how to apply them**
 
