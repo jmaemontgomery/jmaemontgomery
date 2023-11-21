@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working to **finish my Ph.D. in Biochemistry**
 
-- 🌱 I’m currently learning about **LLMs & how to apply them**
+- 🌱 I’m currently learning about **reinforcement learning, AI, and LLMs.**
+
+- ✨ I have a passion for **accessible programming, scientific computing, data analysis, and high-performance computing.**
+
+- 📫 If you come across anything interesting, please don't hesitate to reach out on **twitter, linkedin, or if you find my email!**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
