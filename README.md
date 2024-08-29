@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">A computational chemist getting better everyday.</h3>
+<h3 align="center">A computational biochemist getting better everyday.</h3>
 
-- 🔭 I’m currently working to **finish my Ph.D. in Biochemistry**
+- 🔭 I’m a **recent Ph.D. grad in Biochemistry.**
 
 - 🌱 I’m currently learning about **reinforcement learning, AI, and LLMs.**
 
